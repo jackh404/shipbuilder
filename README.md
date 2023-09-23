@@ -1,0 +1,1 @@
+This web project is designed to aid in the process of building and speccing out ships in the Starfinder tabletop RPG.
